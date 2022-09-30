@@ -399,6 +399,63 @@ class _phonepeState extends State<phonepe> {
                   ),
                 ],
               ),
+              Row(
+                children: [
+                  SizedBox(width: 15),
+                  Text(
+                    "Offers",
+                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.w900),
+                  ),
+                  SizedBox(width: 90),
+                  Text(
+                    "Rewards",
+                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.w900),
+                  ),
+                  SizedBox(width: 90),
+                  Text(
+                    "Refer",
+                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.w900),
+                  ),
+                ],
+              ),
+              Row(
+                children: [
+                  SizedBox(width: 15),
+                  Text(
+                    "Offers",
+                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.w900),
+                  ),
+                  SizedBox(width: 90),
+                  Text(
+                    "Rewards",
+                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.w900),
+                  ),
+                  SizedBox(width: 90),
+                  Text(
+                    "Refer",
+                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.w900),
+                  ),
+                ],
+              ),
+              Row(
+                children: [
+                  SizedBox(width: 15),
+                  Text(
+                    "Offers",
+                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.w900),
+                  ),
+                  SizedBox(width: 90),
+                  Text(
+                    "Rewards",
+                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.w900),
+                  ),
+                  SizedBox(width: 90),
+                  Text(
+                    "Refer",
+                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.w900),
+                  ),
+                ],
+              ),
             ],
           ),
         ),
