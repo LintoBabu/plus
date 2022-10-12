@@ -148,7 +148,7 @@ class _phonepeState extends State<phonepe> {
                 children: [
                   Container(
                     child: Text(
-                      "Transfer Money",
+                      "Transfer",
                       style:
                           TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                     ),
